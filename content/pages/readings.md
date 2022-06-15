@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum1)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum1" %}}
 
 
 {{< tdclose >}}
@@ -54,7 +56,7 @@ No readings
 
 Parkinson's disease I
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum2)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum2" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Cooper, A. A., A. D. Gitler, et al. "[Alpha-synuclein Blocks ER-Golgi Traffic an
 
 Parkinson's disease II
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum3)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum3" %}}
 
 
 {{< tdclose >}}
@@ -102,7 +104,7 @@ Friedman, L. G., M. L. Lachenmayer, et al. "[Disrupted Autophagy Leads to Dopami
 
 Alzheimer's disease
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum4)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum4" %}}
 
 
 {{< tdclose >}}
@@ -126,7 +128,7 @@ Paquet, D., R. Bhat, et al. "[A zebrafish Model of Tauopathy Allows in vivo Imag
 
 Amyotrophic lateral sclerosis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum5)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum5" %}}
 
 
 {{< tdclose >}}
@@ -150,7 +152,7 @@ Van Hoecke, A., L. Schoonaert, et al. "[EPHA4 is a Disease Modifier of Amyotroph
 
 Lab visit - Huntington's disease model in _Drosophila_
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum6)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum6" %}}
 
 
 {{< tdclose >}}
@@ -172,7 +174,7 @@ Field Trip \[No Readings\]
 
 Rett Syndrome
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum7)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum7" %}}
 
 
 {{< tdclose >}}
@@ -196,7 +198,7 @@ Adachi, M., A. E. Autry, et al. "[MeCP2-Mediated Transcription Repression in the
 
 Fragile X Syndrome
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum8)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum8" %}}
 
 
 {{< tdclose >}}
@@ -220,7 +222,7 @@ Banerjee, P., B. P. Schoenfeld, et al. "[Short- and Long-Term Memory Are Modulat
 
 Deafness and Blindness
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum9)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum9" %}}
 
 
 {{< tdclose >}}
@@ -244,7 +246,7 @@ Grillet, N., W. Xiong, et al. "[Harmonin Mutations Cause Mechanotransduction Def
 
 Sleep Disorders
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum10)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum10" %}}
 
 
 {{< tdclose >}}
@@ -268,7 +270,7 @@ Raizen, D. M., J. E. Zimmerman, et al. "[Lethargus is a _Caenorhabditis Elegans_
 
 Wound Healing
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum11)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum11" %}}
 
 
 {{< tdclose >}}
@@ -292,7 +294,7 @@ Niethammer, P., C. Grabher, et al. "[A Tissue-Scale Gradient of Hydrogen Peroxid
 
 Addiction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum12)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum12" %}}
 
 
 {{< tdclose >}}
@@ -316,7 +318,7 @@ Bainton, R. J., L. T. Tsai, et al. "[Moody Encodes Two GPCRs That Regulate Cocai
 
 Metastasis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum13)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum13" %}}
 
 
 {{< tdclose >}}
@@ -340,7 +342,7 @@ Beronja, S., G. Livshits, et al. "[Rapid Functional Dissection of Genetic Networ
 
 Oral presentations and course discussion
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#LecSum14)
+{{% resource_link 321c7407-4638-16b6-c338-849e279faf13 "See the Lecture Summary" "#LecSum14" %}}
 
 
 {{< tdclose >}}
